@@ -1,0 +1,25 @@
+{
+  "name": "DEX·S·F Round 1",
+  "symbol": "DEXSF",
+  "description": "DEX·S·F Round 1 — first of 9 stepped raises funding the DEXSwapper trading pool. Holders earn monthly USDC airdrops from the pool's performance fees. Backed by Meteora DBC bonding curve with permanent locked liquidity at graduation.",
+  "image": "https://tokens.dexswapper.com/tokens/r1.png",
+  "external_url": "https://dexswapper.com",
+  "attributes": [
+    { "trait_type": "Round", "value": "1 of 9" },
+    { "trait_type": "Raise Target", "value": "$9,000 USDC" },
+    { "trait_type": "Start Price", "value": "$0.10" },
+    { "trait_type": "End Price", "value": "$0.20" },
+    { "trait_type": "Supply", "value": "112,500 DEXSF" },
+    { "trait_type": "Migration", "value": "Meteora DAMM v2 (80% claim / 20% locked)" }
+  ],
+  "extensions": {
+    "website": "https://dexswapper.com",
+    "telegram": "https://t.me/DEXSwappertoken"
+  },
+  "tags": [
+    "bonding-curve",
+    "meteora-dbc",
+    "dexswapper",
+    "round-1"
+  ]
+}
