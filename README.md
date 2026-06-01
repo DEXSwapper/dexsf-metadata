@@ -33,6 +33,6 @@ Metadata JSONs and round logos are served at:
 ## Links
 
 - Website: https://dexswapper.com
-- Telegram: https://t.me/DEXSwappertoken
+- Telegram: https://t.me/DEXSToken
 
 <!-- rebuild 20260526T081951Z -->
